@@ -1,0 +1,41 @@
+html, body{
+    height: 100%;
+    background-image: url(http://source.unsplash.com/5pQCBcVMTqc);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-brand{
+    font-family: 'Abril Fatface', sans-serif;
+    font-size: 2rem;
+}
+
+.navbar-nav a{
+    color: yellowgreen;
+}
+
+.box{
+    margin-top: 150px;
+    /* border: 1px solid white; */
+    /* height: 300px; */
+    width: 600px;
+    /* display: flex;
+    flex-direction: column; */
+    /* flex-basis: auto; */
+}
+
+.h3{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.h5{
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    color: wheat;
+    /* font-size: 24px; */
+}
+

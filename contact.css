@@ -1,0 +1,37 @@
+html, body{
+    height: 100%;
+    background-image: url(http://source.unsplash.com/u8isJQ6QjF4);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-brand{
+    font-family: 'Abril Fatface', sans-serif;
+    font-size: 2em;
+}
+
+.city{
+    margin-left: 0%;
+    margin-top: 0%;
+    width: 110px;
+	border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(190, 236, 25, 0.932);
+    color: rgb(224, 184, 2);
+}
+
+.hr{
+    width: auto;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(148, 25, 25, 0.733)
+}
+
+.add{
+    margin-bottom: 3%;
+}
+
+.contacts .container{
+    /* background-color: green; */
+    color: rgb(252, 255, 204);
+
+}

@@ -1,0 +1,23 @@
+html, body{
+    height: 100%;
+    background-image: url(http://source.unsplash.com/RgIKRYhmG2k);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.border-bottom{
+    margin-bottom: 15px;
+}
+
+
+.navbar-brand{
+    font-family: 'Abril Fatface', sans-serif;
+    font-size: 2em;
+}
+
+.img2{
+    width: 250px;
+    height: 200px;
+    
+}
